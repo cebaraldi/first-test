@@ -1,3 +1,7 @@
 # first-test
 
-Doing sone first steps...
+Doing some first steps...
+
+1. a numbered list
+1. b
+1. c
